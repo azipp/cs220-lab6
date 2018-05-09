@@ -1,7 +1,6 @@
 language: c
 compiler:
   - gcc
-install: make get-deps
 script:
   - cd hello/
   - make all
