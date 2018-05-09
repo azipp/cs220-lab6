@@ -4,5 +4,5 @@ compiler:
 script:
   - cd hello/
   - make all
-  - make test
+  - make tests
   - make clean
